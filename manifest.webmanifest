@@ -1,0 +1,13 @@
+{
+  "name": "LernApp: Englisch und Mathe",
+  "short_name": "LernApp",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F1FF",
+  "theme_color": "#6C5CE7",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
